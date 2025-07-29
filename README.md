@@ -1,6 +1,6 @@
 # Parallex-Effect-Website
 # click here for the demo  
-(https://ankitt1868.github.io/Parallex-Effect-Website/)
+Check out the live demo [here](https://ankitt1868.github.io/Parallex-Effect-Website/)
 
 # Contact
 For any inquiries, reach out at [ankittiwari1868@gmail.com].
